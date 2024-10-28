@@ -6,7 +6,8 @@ print("Boa sorte!", nome)
 
 palavras = ['arco-íris', 'computador', 'ciência', 'programação',
             'python', 'matemática', 'jogador', 'condição',
-            'inverter', 'água', 'tabuleiro', 'nuvem']
+            'inverter', 'água', 'tabuleiro', 'nuvem', 'cibersegurança', 'controle', 'lógica',
+            'algoritimo']
 
 palavra = random.choice(palavras)
 
